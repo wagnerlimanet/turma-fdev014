@@ -1,0 +1,42 @@
+trocar a cor de fundo
+	background color
+		bgcolor=""
+
+nome da cor	
+hexadecimal
+	Red	00	ff
+	Green	00	ff
+	Blue	00	ff
+		#000000 a 999999
+		#FFFFFF
+		A a F
+
+Extensão chamada COLORZILLA
+
+----------------------------------------------------
+
+<font>...</font>
+	cor		color="yellow"	
+	fonte (tipo)	face="Trebuchet MS"
+	tamanho		size="1 a 7"
+
+----------------------------------------------------
+
+<p>
+	style=""
+		color:white;
+		font-face:Trebuchet MS;
+		font-size:24px;
+
+
+
+
+
+
+	
+
+
+
+
+
+
