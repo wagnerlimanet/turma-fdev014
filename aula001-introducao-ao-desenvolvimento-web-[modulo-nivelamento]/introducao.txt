@@ -1,0 +1,65 @@
+fullstack = 	frontend + backend
+html		linguagem de marcação
+css		linguagem de formatação (visual)
+bootstrap	biblioteca de html, css e js
+github		versionamento projetos
+javascript	linguagem de programação (stack)
+react.js		framework ("biblioteca") :: PWA
+mysql		armazena dados (banco de dados)
+node.js		linguagem back (stack)
+
+-----------------------------------------------------
+
+HTML
+	comando
+		abrir comando e fechar comando
+		<>	           </>
+		<comando>         </comando>
+		<pular>	            </pular>
+
+	todos os comandos serão digitados em INGLÊS
+- textos (títulos, parágrafos, listas...);
+- botões, links e imagens (landing page);
+- tabela e dados tabulados (tabela do campeonato brasileiro);
+- formulários;
+
+-----------------------------------------------------
+
+Títulos
+	Cabeçalhos de Títulos
+	Heading
+		h
+			<h*>
+	*={1,2,3,4,5,6}
+
+<h1></h1>
+<h2></h2>
+<h3></h3>
+<h4></h4>
+<h5></h5>
+<h6></h6>
+
+-----------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------
