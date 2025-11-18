@@ -1,0 +1,53 @@
+.blococompleto {
+    width: 100%;
+    height: auto;
+    float: left;
+    }
+
+    #banner {
+        width: 100%;
+        height: 300px;
+        float: left;
+        }
+
+    #rodape {
+        width: 100%;
+        height: 50px;
+        float: left;
+        }
+
+.botao {
+    width: 25%;
+    height: 40px;
+    float: left;
+    }
+
+.bloco {
+    width: 200px;
+    height: 200px;
+    float: left;
+    }
+
+
+    .bgvermelho {
+        background: red;
+        }
+    .bgverde {
+        background: green;
+        }
+    .bgazul {
+        background: blue;
+        }
+    .bgvioleta {
+        background: violet;
+        }
+    .bgpreto {
+        background: black;
+        }
+    .bgbranco {
+        background: white;
+        }
+    .bglaranja {
+        background: orangered;
+        }
+
